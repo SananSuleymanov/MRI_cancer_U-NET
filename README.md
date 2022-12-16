@@ -1,4 +1,4 @@
-#Brain MRI U-NET based cancer segmentation
+# Brain MRI U-NET based cancer segmentation
 
 The project aims to create a segmentation model using U-NET architecture for segmenting cancer area on the MRI images of brain. Model is developed from scratch using Tensorflow framework. The used dataset for project is received from kaggle and the steps for download is mentioned in Download Kaggle dataset section of train.ipynb file. 
 
